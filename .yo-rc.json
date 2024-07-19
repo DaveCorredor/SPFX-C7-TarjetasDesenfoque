@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.17.1",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.19.0",
+    "libraryName": "spfx-c-7-tarjetas-desenfoque",
+    "libraryId": "e8687a41-93d6-41d8-b3e0-513c9b4407fd",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "spfx-c7-tarjetasDesenfoque",
+    "solutionShortDescription": "spfx-c7-tarjetasDesenfoque description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

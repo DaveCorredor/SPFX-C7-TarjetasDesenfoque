@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spfx-c-7-tarjetas-desenfoque-client-side-solution",
+    "id": "e8687a41-93d6-41d8-b3e0-513c9b4407fd",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.19.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "spfx-c7-tarjetasDesenfoque description"
+      },
+      "longDescription": {
+        "default": "spfx-c7-tarjetasDesenfoque description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "spfx-c-7-tarjetas-desenfoque Feature",
+        "description": "The feature that activates elements of the spfx-c-7-tarjetas-desenfoque solution.",
+        "id": "ed5619e6-6f0a-4ff0-92c1-3f867836b0dd",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-c-7-tarjetas-desenfoque.sppkg"
+  }
+}
